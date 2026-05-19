@@ -61,8 +61,8 @@ ChatGPT • Claude • Copilot • Cursor • Amazon QuickSight
 
 ## 📫 Contact  
 
-- LinkedIn: [https://www.linkedin.com/in/i-afanaseva/]
-- Email: [irina@afanasev.no]  
+- LinkedIn: https://www.linkedin.com/in/i-afanaseva/
+- Email: irina@afanasev.no
 
 ---
 
