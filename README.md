@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 
-I’m a data analyst with **10+ years of experience** in analytics, BI, and business consulting.  
+I’m a data analyst with **experience** in analytics, BI, and business consulting.  
 
 I build **data-driven solutions** that help organizations understand performance, improve processes, and make better decisions.
 
