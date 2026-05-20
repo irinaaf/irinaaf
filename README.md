@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Irina
 
-💼 **Data Analyst • BI Specialist • Business Consultant**  
+💼 **Business Analyst • Data Analyst • IT Consultant**  
 🔍 Turning complex data into clear, actionable insights  
 
 ---
